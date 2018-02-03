@@ -146,6 +146,7 @@ footer {
 }
 
 .footer-botton {
+	display: inline-block;
 	text-decoration: none;
 	display: inline-block;
 	border-radius: 50px;
